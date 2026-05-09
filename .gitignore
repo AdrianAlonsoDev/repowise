@@ -145,3 +145,6 @@ docs/HOSTED_PRODUCT_UPGRADE_PLAN.md
 docs/HOSTED_IMPLEMENTATION_GUIDE.md
 docs/HOSTED_PROGRESS.md
 scripts/md_to_docx.py
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
